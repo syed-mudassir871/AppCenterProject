@@ -1,0 +1,5 @@
+D:\Mudassir\Testing Projects\AppCenterProject\Xamarin1\Xamarin1\bin\Debug\Xamarin1.dll
+D:\Mudassir\Testing Projects\AppCenterProject\Xamarin1\Xamarin1\bin\Debug\Xamarin1.pdb
+D:\Mudassir\Testing Projects\AppCenterProject\Xamarin1\Xamarin1\obj\Debug\Xamarin1.csprojResolveAssemblyReference.cache
+D:\Mudassir\Testing Projects\AppCenterProject\Xamarin1\Xamarin1\obj\Debug\Xamarin1.dll
+D:\Mudassir\Testing Projects\AppCenterProject\Xamarin1\Xamarin1\obj\Debug\Xamarin1.pdb
